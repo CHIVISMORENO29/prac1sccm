@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prac1sccm</string>
+    <string name="itnm">Tecnologico</string>
+    <string name="pdp">Pantalla de Datos</string>
+    <string name="div">Ingenieria en Sistemas Computacionales</string>
+    <string name="mat">Introduccion a Dispositivos Moviles</string>
+    <string name="nom">Silvia del Carmen Cardona Moreno</string>
+    <string name="grupo">7S11</string>
+</resources>
